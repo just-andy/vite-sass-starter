@@ -11,5 +11,8 @@
   "devDependencies": {
     "sass": "^1.56.2",
     "vite": "^4.0.0"
+  },
+  "dependencies": {
+    "vite-plugin-purgecss": "^0.2.12"
   }
 }
